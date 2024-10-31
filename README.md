@@ -14,4 +14,3 @@
 # Ekran görüntüsü
 
 # ![](bes.gif)
-# Nextjs-Film-Uygulamasi
