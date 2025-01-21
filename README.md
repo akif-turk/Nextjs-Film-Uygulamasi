@@ -1,6 +1,6 @@
 # Nextjs Film Uygulaması
 
-# Kütüphaneler ve İşlemler
+# Kütüphane ve İşlemler
 
 - next
 - tailwind
